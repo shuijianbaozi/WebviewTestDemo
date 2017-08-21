@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <item android:id="@+id/page_up"
+        android:title="页面向上" />
+    <item android:id="@+id/page_down"
+        android:title="页面向上" />
+    <item android:id="@+id/refresh"
+        android:title="页面向上" />
+</menu>
+<!--可以在toolbar 上放图标-->
